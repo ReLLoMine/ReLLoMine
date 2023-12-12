@@ -1,4 +1,4 @@
-<p align="center"> <a href="https://github.com/ReLLoMine" target="blank"> <img src="https://media.tenor.com/1vhgkHU7lI0AAAAi/takodachi-ina.gif" alt="Tako" height="150" /> </a> </p>
+<p align="center"> <a href="https://github.com/ReLLoMine" target="blank"> <img src="https://media.tenor.com/1vhgkHU7lI0AAAAi/takodachi-ina.gif" alt="Tako" height="200" /> </a> </p>
 <h1 align="center">Hi 👋, I'm Viacheslav</h1>
 <h3 align="center">A passionate software-engineer from Russia</h3>
 
